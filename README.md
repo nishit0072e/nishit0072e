@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishit bayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishit bayen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishit-bayen-🇮🇳-423aa421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishit-bayen-🇮🇳-423aa421b" height="30" width="40" /></a>
 <a href="https://fb.com/nishit bayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishit bayen" height="30" width="40" /></a>
 <a href="https://instagram.com/_nix0072_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nix0072_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nishitbayen2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishitbayen2021" height="30" width="40" /></a>

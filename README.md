@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishit Bayen</h1>
 <h3 align="center">A passionate HW/FW developer from India</h3>
 
+![Purple White Marketing Manager Modern Profile LinkedIn Article Cover Image](https://github.com/nishit0072e/nishit0072e/assets/65007263/07d41fd1-5e00-473e-b734-0220fc1507ed)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit0072e&label=Profile%20views&color=0e75b6&style=flat" alt="nishit0072e" /> </p>
 
 - 🔭 I’m currently working on **ASIC Design Flow**

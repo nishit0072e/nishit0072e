@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nishit Bayen</h1>
 <h3 align="center">A passionate HW/FW developer from India</h3>
 
-![Purple White Marketing Manager Modern Profile LinkedIn Article Cover Image](https://github.com/nishit0072e/nishit0072e/assets/65007263/07d41fd1-5e00-473e-b734-0220fc1507ed)
+![new](https://github.com/nishit0072e/nishit0072e/assets/65007263/7b76aab4-cadf-43d8-964a-8e060fb79a7d)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit0072e&label=Profile%20views&color=0e75b6&style=flat" alt="nishit0072e" /> </p>
+<p align="left"> <img src="https://badgen.net/badge/hey/What's up?/red?icon=twitter" /> </p>
+<!--!\[my badge\](https://badgen.net/badge/hey/What's up?/red?icon=twitter)-->
 
 - 🔭 I’m currently working on **ASIC Design Flow**
 

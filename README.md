@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **VLSI Projects**
 
-<p align="left"> <img src="https://badgen.net/badge/Gmail/nishitbayen2021@gmail.com/red?icon=twitter" /> </p>
+<p align="left"> <img src="https://badgen.net/badge/Gmail/nishitbayen2021@gmail.com/blue?icon=twitter" /> </p>
 
 - 📫 How to reach me **nishitbayen.IND003@ieee.org**
 

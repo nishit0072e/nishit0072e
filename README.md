@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Nishit Bayen</h1>
 <h3 align="center">A passionate HW/FW developer from India</h3>
 
@@ -14,14 +15,13 @@
 
 - 👯 I’m looking to collaborate on **VLSI Projects**
 
-<p align="left"> <img src="https://gmail.com/badge/Gmail/nishitbayen2021@gmail.com/blue?icon=twitter" /> </p>
+<p align="left"> <img src="https://badgen.net/badge/Gmail/nishitbayen2021@gmail.com/blue?icon=gmail" /> </p>
 
 - 📫 How to reach me **nishitbayen.IND003@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishit-bayen-🇮🇳-423aa421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishit-bayen-🇮🇳-423aa421b" height="30" width="40" /></a>
-<a href="https://gmail.com/nishitbayen2021@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishit bayen" height="30" width="40" /></a>
 <a href="https://fb.com/nishit bayen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishit bayen" height="30" width="40" /></a>
 <a href="https://instagram.com/_nix0072e_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nix0072e_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nishitbayen2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishitbayen2021" height="30" width="40" /></a>

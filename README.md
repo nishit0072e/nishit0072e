@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://badgen.net/badge/Gmail/nishitbayen2021@gmail.com/blue?icon=gmail" /> </p>
 
-- 📫 How to reach me **nishitbayen.IND003@ieee.org**
+- 📫 How to reach me **nishitbayen2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit0072e&label=Profile%20views&color=0e75b6&style=flat" alt="nishit0072e" /> </p>
 <p align="left"> <img src="https://badgen.net/badge/hey/What's up?/red?icon=twitter" /> </p>
 <!--!\[my badge\](https://badgen.net/badge/hey/What's up?/red?icon=twitter)-->
+<p align="left"> <img src="https://badgen.net/badge/[Download.sh](https://github.com/nishit0072e/RTL-to-GDSII/blob/main/download.sh)/blue?icon=gmail" /> </p>
 
 - 🔭 I’m currently working on **ASIC Design Flow**
 

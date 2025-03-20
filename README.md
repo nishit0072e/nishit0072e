@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit0072e&theme=tokyonight&hide_border=false" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=nishit0072e&show_icons=true&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit0072e&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
